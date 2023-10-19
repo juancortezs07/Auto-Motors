@@ -37,7 +37,8 @@ En el caso que la empresa tome la decisión de expandir el mercado al extranjero
   ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/562c920f-eb5b-483c-8762-486994e8eda3)
 
 
-  -----------------------------------------
+-----------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------
 #  Resultados: 
 •	Las ventas totales desde setiembre 2016 a marzo 2020 fueron de 17.036 millones de dólares
 •	La cantidad de ítem vendidos fue de 317,139
