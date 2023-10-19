@@ -38,7 +38,7 @@ En el caso que la empresa tome la decisión de expandir el mercado al extranjero
 
 
   -----------------------------------------
-  Resultados: 
+#  Resultados: 
 •	Las ventas totales desde setiembre 2016 a marzo 2020 fueron de 17.036 millones de dólares
 •	La cantidad de ítem vendidos fue de 317,139
 •	Se tienen presencia en 6 localidades Suba, Engativa, Usaquen, Barrios Unidos, Puente Aranda y Bogotá
@@ -49,7 +49,7 @@ En el caso que la empresa tome la decisión de expandir el mercado al extranjero
 •	Las ciudades que más venden tanto en dinero como en volumen son Engativa y Bogotá, sin embargo, en Engativa se registran datos con mayores ingresos.
 •	Llantas registran los datos con mas grandes ingresos por ventas y servicios la mayor cantidad de volumen
 
-Conclusiones y recomendaciones:
+# Conclusiones y recomendaciones:
 A raíz de la pandemia se recomienda reducir la cantidad de empleados a marzo 2020 de 22, y capacitarlos para realizar ventas online, además ofrecer servicio a domicilio.
 Se recomienda abrir más sedes en Bogotá que se perfila como la 2 localidad con mayores ventas y volumen. Si se desea abrir más sedes, se podría aperturar en localidades más cercanas antes de expandirse a otros países.
 
@@ -57,6 +57,10 @@ Se recomienda abrir más sedes en Bogotá que se perfila como la 2 localidad con
 # Tableau
   Link : https://public.tableau.com/app/profile/juan.cortez7484/viz/AutoMotors_16976055259240/DashboardAutoMotors?publish=yes
   
-  Archivo : https://github.com/juancortezs07/Auto-Motors/blob/ccfc042bd70c49a1a14c4379a8c609ddf234813f/Auto%20Motors.twbx
+  Archivo : [Auto Motors.twbx](https://github.com/juancortezs07/Auto-Motors/blob/main/Auto%20Motors.twbx)
+
+  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/8b06744f-4b4e-49a0-86a9-79a8abbca040)
+
+  
   
   
