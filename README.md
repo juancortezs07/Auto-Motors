@@ -74,7 +74,8 @@ Se recomienda abrir más sedes en Bogotá que se perfila como la 2 localidad con
   
   Archivo : [Auto Motors.twbx](https://github.com/juancortezs07/Auto-Motors/blob/main/Auto%20Motors.twbx)
 
-  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/c1bd667b-747b-47e5-bf84-6199a648b13c)
+  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/87a3e83b-d406-4ccc-8a4f-77ca8eafe65e)
+
 
   
   
