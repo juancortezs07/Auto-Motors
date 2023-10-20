@@ -12,6 +12,19 @@ Se cuenta con datos internos de la empresa como ventas y empleados. Se requiere 
 El cliente necesita contar con toda la información ya analizada para tomar una decisión final.
 
 ----------------------------------
+# Limpieza con python
+
+Antes de analizar la data , se procedió limpiar los datos, encontramos por ejemplo datos nulos, tipos de datos que no correspondían a la clase de columnas y creamo columna a partir de otras
+
+Link : [Notebook Colab](https://colab.research.google.com/drive/1BmY76BTNwBSmSXnxk6skwHFH8jrC3Q3f?usp=sharing)
+
+Archivo : [Notebook](https://github.com/juancortezs07/Auto-Motors/blob/f085e71e174c5394361cd23739776ca46a16409f/Automotors.ipynb)
+
+![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/f9f804c3-a21d-43fa-ba8b-1262fd49a1fd)
+
+
+
+----------------------------------
 # Resultados: 
 
 •	Las ventas totales desde setiembre 2016 a diciembre 2019 fueron de 16.146 millones de dólares
