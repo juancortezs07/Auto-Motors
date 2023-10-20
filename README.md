@@ -15,11 +15,17 @@ El cliente necesita contar con toda la información ya analizada para tomar una 
 # Resultados: 
 
 •	Las ventas totales desde setiembre 2016 a diciembre 2019 fueron de 16.064 millones de dólares
+
 •	La cantidad de ítem vendidos fue de 295,195 mil
+
 •	Se tiene 7 sedes en total, 2 en Engativa, 1 en Suba, 1 en Usaquen ,1 en Barrios Unidos, 1 en Bogotá y 1 en Puente Aranda
+
 •	Llantas es el ítem más vendido con el 74.02 % de las ventas totales
+
 •	Servicio es el segundo ítem más vendido con el 15% de las ventas totales
+
 •	La cantidad de empleados siempre fue la misma desde setiembre 2016 a diciembre 2019, 68 empleados
+
 •	Los meses de diciembre son los que más se vende desde el 2016 al 2019 en todos se pasó los 514 mil dólares, solamente el 2018 la cifra llegó a 454 mil dólares.
 
 ----------------------------------------
@@ -40,14 +46,22 @@ En el caso que la empresa tome la decisión de expandir el mercado al extranjero
 -----------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------
 #  Resultados: 
-•	Las ventas totales desde setiembre 2016 a marzo 2020 fueron de 17.036 millones de dólares
+•	Las ventas totales desde setiembre 2016 a marzo 2020 fueron de 17.117 millones de dólares
+
 •	La cantidad de ítem vendidos fue de 317,139
+
 •	Se tienen presencia en 6 localidades Suba, Engativa, Usaquen, Barrios Unidos, Puente Aranda y Bogotá
-•	Llantas es el ítem más vendido con el 73.58 % de las ventas totales
-•	Servicio es el segundo ítem más vendido con el 15.21% de las ventas totales
+
+•	Llantas es el ítem más vendido con el 73.71 % de las ventas totales
+
+•	Servicio es el segundo ítem más vendido con el 15.14% de las ventas totales
+
 •	La cantidad histórica de empleados fue de 56, sin embargo, de diciembre 2019 a marzo 2020 se contrataron 4 empleados más.
-•	Los meses de diciembre son los que más se vende desde el 2016 al 2019 en todos se pasó los 514 mil dólares, además en febrero 2020 se llegó a 510 mil dólares
+
+•	Los meses de diciembre son los que más se vende desde el 2016 al 2019 en todos se pasó los 514 mil dólares , menos en diciembre 2018 que se vendió 454 mil, además en febrero 2020 se llegó a 510 mil dólares
+
 •	Las ciudades que más venden tanto en dinero como en volumen son Engativa y Bogotá, sin embargo, en Engativa se registran datos con mayores ingresos.
+
 •	Llantas registran los datos con mas grandes ingresos por ventas y servicios la mayor cantidad de volumen
 
 # Conclusiones y recomendaciones:
@@ -56,11 +70,11 @@ Se recomienda abrir más sedes en Bogotá que se perfila como la 2 localidad con
 
 
 # Tableau
-  Link : https://public.tableau.com/app/profile/juan.cortez7484/viz/AutoMotors_16976055259240/DashboardAutoMotors?publish=yes
+  Link : [Tableau Dashboard](https://public.tableau.com/views/AutoMotors_16976055259240/DashboardAutoMotors?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
   
   Archivo : [Auto Motors.twbx](https://github.com/juancortezs07/Auto-Motors/blob/main/Auto%20Motors.twbx)
 
-  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/8b06744f-4b4e-49a0-86a9-79a8abbca040)
+  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/c1bd667b-747b-47e5-bf84-6199a648b13c)
 
   
   
