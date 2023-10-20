@@ -14,17 +14,17 @@ El cliente necesita contar con toda la información ya analizada para tomar una 
 ----------------------------------
 # Resultados: 
 
-•	Las ventas totales desde setiembre 2016 a diciembre 2019 fueron de 16.064 millones de dólares
+•	Las ventas totales desde setiembre 2016 a diciembre 2019 fueron de 16.146 millones de dólares
 
 •	La cantidad de ítem vendidos fue de 295,195 mil
 
 •	Se tiene 7 sedes en total, 2 en Engativa, 1 en Suba, 1 en Usaquen ,1 en Barrios Unidos, 1 en Bogotá y 1 en Puente Aranda
 
-•	Llantas es el ítem más vendido con el 74.02 % de las ventas totales
+•	Llantas es el ítem más vendido con el 74.15 % de las ventas totales
 
-•	Servicio es el segundo ítem más vendido con el 15% de las ventas totales
+•	Servicio es el segundo ítem más vendido con el 14.92% de las ventas totales
 
-•	La cantidad de empleados siempre fue la misma desde setiembre 2016 a diciembre 2019, 68 empleados
+•	La cantidad de empleados siempre fue la misma desde setiembre 2016 a diciembre 2019, 52 empleados
 
 •	Los meses de diciembre son los que más se vende desde el 2016 al 2019 en todos se pasó los 514 mil dólares, solamente el 2018 la cifra llegó a 454 mil dólares.
 
@@ -36,11 +36,12 @@ La decisión de seguir expandiéndose se fundamenta en el incremento de ventas d
 En el caso que la empresa tome la decisión de expandir el mercado al extranjero, se recomienda realizar alianzas estratégicas con inversionistas que conozcan el mercado local objetivo, esto para reducir la probabilidad de fracaso, teniendo en cuenta que las realidades por zonas son diferentes.
 
 # Power BI 
-  Link : https://app.powerbi.com/groups/me/reports/ccc3906c-bea2-4411-a533-0d30c173b159/ReportSection?experience=power-bi
+  Link : [Power BI Dashboard](https://app.powerbi.com/groups/f3f1d8da-948c-46a5-81eb-9ddf7cc1969c/reports/adb00a20-2905-492d-a32e-9afb767308fa?ctid=0e0cb060-09ad-49f5-a005-68b9b49aa1f6&pbi_source=linkShare)
   
   Archivo : [AUTOMOTORS.pbix](https://github.com/juancortezs07/Auto-Motors/blob/main/AUTOMOTORS.pbix)
   
-  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/562c920f-eb5b-483c-8762-486994e8eda3)
+  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/e7841504-e6dd-4ab6-946e-592acd160e65)
+
 
 
 -----------------------------------------------------------------------------------------------------------------
