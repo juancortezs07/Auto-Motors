@@ -4,7 +4,7 @@
 
 # Descripción del proyecto:
 
-Se cuenta con datos internos de la empresa como ventas y empleados. Se requiere analizar las ventas para evaluar si vender la empresa, si quiebra o si salir a buscar inversores para expansión hacia otros países. En este proyecto trabajamos con Python para limpieza, para visualizaciones usamos Power BI, Tableau, Looker Studio y también se usó Google Cloud BigQUery para las querys
+Se cuenta con datos internos de la empresa como ventas y empleados. Se requiere analizar las ventas para evaluar si vender la empresa, si quiebra o si salir a buscar inversores para expansión hacia otros países. En este proyecto trabajamos con Python para limpieza, para visualizaciones usamos Power BI, Tableau, Looker Studio y también se usó Google Cloud BigQuery para las querys
 
 ------------------------------------
 # Objetivo:
