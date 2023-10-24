@@ -92,13 +92,10 @@ Se recomienda abrir más sedes en Bogotá que se perfila como la 2 localidad con
 
 
 
-# Looker Studio
-  Link: https://lookerstudio.google.com/reporting/07c253e0-1331-4b37-a873-34f561b38d4a
-
-  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/84f97878-cda9-45a8-97b1-eb140cd7bddc)
-
-
 # Goole Cloud BigQuery
+
+Después de limpiar la data se trabajó con GCP  en dónde se realizaron las querys para encontrar información importante como ranking de ventas por empleados, ciudades con mayores ingresos, entre otros.
+
  Archivo :  [BigQuery](https://github.com/juancortezs07/Auto-Motors/blob/912f153aa317330013434469676f7655592e7003/BigQuery.pdf)
  
  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/7d71249d-7d6a-484b-ab61-52ef7726cfd1).
@@ -108,6 +105,13 @@ Se recomienda abrir más sedes en Bogotá que se perfila como la 2 localidad con
  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/f2e62c30-d8e5-4477-a7d9-563489ad3aa7)
 
 
+# Looker Studio
+
+  Por último, hicimos conexión entre GCP y Looker para realizar más gráficos relevantes.
+  
+  Link: https://lookerstudio.google.com/reporting/07c253e0-1331-4b37-a873-34f561b38d4a
+
+  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/84f97878-cda9-45a8-97b1-eb140cd7bddc)
  
   
   
