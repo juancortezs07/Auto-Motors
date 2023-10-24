@@ -4,7 +4,7 @@
 
 # Descripción del proyecto:
 
-Se cuenta con datos internos de la empresa como ventas y empleados. Se requiere analizar las ventas para evaluar si vender la empresa, si quiebra o si salir a buscar inversores para expansión hacia otros países.
+Se cuenta con datos internos de la empresa como ventas y empleados. Se requiere analizar las ventas para evaluar si vender la empresa, si quiebra o si salir a buscar inversores para expansión hacia otros países. En este proyecto trabajamos con Python para limpieza, para visualizaciones usamos Power BI, Tableau, Looker Studio y también se usó Google Cloud BigQUery para las querys
 
 ------------------------------------
 # Objetivo:
@@ -91,6 +91,23 @@ Se recomienda abrir más sedes en Bogotá que se perfila como la 2 localidad con
   ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/87a3e83b-d406-4ccc-8a4f-77ca8eafe65e)
 
 
-  
+
+# Looker Studio
+  Link: https://lookerstudio.google.com/reporting/07c253e0-1331-4b37-a873-34f561b38d4a
+
+  ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/84f97878-cda9-45a8-97b1-eb140cd7bddc)
+
+
+# Goole Cloud BigQuery
+ Archivo :  [BigQuery](https://github.com/juancortezs07/Auto-Motors/blob/912f153aa317330013434469676f7655592e7003/BigQuery.pdf)
+ 
+ ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/7d71249d-7d6a-484b-ab61-52ef7726cfd1).
+ 
+ ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/dbc9668f-7e04-40a5-86f2-75aa0e92491f)
+ 
+ ![image](https://github.com/juancortezs07/Auto-Motors/assets/106040107/f2e62c30-d8e5-4477-a7d9-563489ad3aa7)
+
+
+ 
   
   
